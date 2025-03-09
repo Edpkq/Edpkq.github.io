@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    background-image: url(https://i.pinimg.com/736x/3c/e6/84/3ce684aa5f6702942ed5e8bd37c41fed.jpg);
+  }
+
+  .Canción_1 {
+  color: black;
+  font-family: verdana;
+  margin: 6px;
+  border: 1px;
+  padding: 15px;
+   background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.8), rgba(240, 240, 240, 0.8));
+   border-radius: 7px;
+   width: 270px;
+}
+
+ .Canción_2 {
+  color: black;
+  font-family: verdana;
+  margin: 6px;
+  border: 1px;
+  padding: 15px;
+   background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.8), rgba(240, 240, 240, 0.8));
+   border-radius: 7px;
+   width: 270px;
+}
+
+.Canción_1, .Canción_2 {
+    display: inline-block;
+    width: 22%;
+    vertical-align: top;
+    height: 80%;
+}
+
+
