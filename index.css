@@ -25,11 +25,51 @@ body {
    width: 270px;
 }
 
-.Canción_1, .Canción_2 {
+.desp {
+  font-size: 25px;
+  color: #1C1C1C;
+  font-family: verdana;
+  margin: 6px;
+  border: 1px;
+  padding: 15px;
+   background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.8), rgba(240, 240, 240, 0.8));
+   border-radius: 7px;
+   width: 1200px;
+}
+
+ .enjambre {
+  color: black;
+  font-family: verdana;
+  margin: 6px;
+  border: 1px;
+  padding: 15px;
+   background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.8), rgba(240, 240, 240, 0.8));
+   border-radius: 7px;
+   width: 600px;
+}
+
+.enjambre_2 {
+  font-size: 10px;
+  color: #1C1C1C;
+  font-family: georgia;
+  margin: 6px;
+  border: 1px;
+  padding: 15px;
+   background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.8), rgba(240, 240, 240, 0.8));
+   border-radius: 7px;
+   width: 560px;
+   height: 30;
+}
+
+.Canción_1, .Canción_2, {
     display: inline-block;
     width: 22%;
     vertical-align: top;
     height: 80%;
 }
 
+.Canción_1, .Canción_2, .enjambre, .enjambre_2 {
+    display: inline-block;
+    vertical-align: top;
+}
 
